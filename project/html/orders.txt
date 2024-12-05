@@ -1,0 +1,35 @@
+Username: bruh
+Item: Latte
+Price: 150 PHP
+Address: 31
+Phone Number: 42
+Credit Card Number: 423
+------------------------------------
+Username: kek
+Item: Milky Choco
+Price: 150 PHP
+Address: meow12
+Phone Number: 432153215
+Credit Card Number: 41235353
+------------------------------------
+Username: johnpaul
+Item: Cappuccino
+Price: 150 PHP
+Address: lupang pangako st bagong silangan
+Phone Number: 09123456789
+Credit Card Number: 575013298714
+------------------------------------
+Username: qcu
+Item: Chocolate Milktea
+Price: 150 PHP
+Address: qcu novaliches
+Phone Number: 0987654321
+Credit Card Number: 41234312
+------------------------------------
+Username: erold
+Item: Cappuccino
+Price: 150 PHP
+Address: 666 impyerno st philippines
+Phone Number: 09666666666
+Credit Card Number: 09666666666
+------------------------------------

@@ -1,0 +1,206 @@
+.link{
+    text-decoration: none;
+    color: black;
+}
+li{
+    display: inline-block;
+    margin-right: 30px;
+}
+li.nav{
+    font-size: 20px;
+}
+li.login{
+    margin-left: 0px;
+
+}
+body{
+    background-image: url("/project/assets/background.jpg");
+    background-repeat: no-repeat;
+}
+header{
+    background-color: burlywood;
+    padding-bottom: 20px;
+}
+div.coffee{
+    background-image: url("/project/assets/coffee.jpg");
+    background-repeat: no-repeat;
+    padding: 20;
+    margin-top: 20px;
+    padding-right: 200px ;
+    margin-right: 20px;
+    opacity: 0.7;
+   
+}
+div.coffee:hover{
+    opacity: 1;
+    transition: ease 1000ms;
+}
+div.coldbrew:hover{
+    opacity: 1;
+    transition: ease 1000ms;
+}
+div.milktea:hover{
+    opacity: 1;
+    transition: ease 1000ms;
+}
+div.coldbrew{
+    background-image: url("/project/assets/coldbrew.jpg");
+    padding: 20;
+    padding-right: 155px;
+    margin-right: 20px;
+    opacity: 0.7;
+}
+div.milktea{
+    background-image: url("/project/assets/milktea.jpg");
+    padding: 20;
+    margin-top: 20px;
+    padding-right: 200px;
+    opacity: 0.7;
+}
+h1.prod{
+    color:rgb(165, 102, 7);
+    
+}
+div{
+    display: inline-block ;
+    padding-right: 50;
+}
+
+.header.coffee{
+    background-color: burlywood;
+}
+div.blackcoffee{
+    background-image:url("/project/assets/black_coffee.jpg");
+    margin-top: 20px;
+    padding-right: 200px;
+    margin-right: 10px;
+    padding-bottom: 4px;
+}
+div.order{
+    background-color: rgb(170, 111, 35);
+    scale: 0.;
+    border-radius: 25px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    border-width: 2px;
+    margin-left: 10px;
+}
+div.latte{
+    background-image:url("/project/assets/latte.jpg");
+    margin-top: 20px;
+    padding-right: 200px;
+    margin-right: 10px;
+    padding-bottom: 4px;
+}
+
+div.cappucino{
+    background-image:url("/project/assets/cappuccino.jpg");
+    margin-top: 20px;
+    padding-right: 200px;
+    margin-right: 10px;
+    padding-bottom: 4px;
+}
+
+div.americano{
+    background-image:url("/project/assets/americano.jpg");
+    margin-top: 20px;
+    padding-right: 200px;
+    margin-right: 10px;
+    padding-bottom: 4px;
+}
+div.caramel{
+    background-image:url("/project/assets/caramelmacchiato.jpg");
+    background-repeat: no-repeat;
+    background-size:100%;
+    padding-right: 200px;
+    margin-right: 10px;
+    padding-bottom: 4px;
+    margin-left: 20px;
+}
+div.milk{
+    background-image:url("/project/assets/Milkychoco.jpg");
+    background-repeat: no-repeat;
+    background-size:100%;
+    margin-top: 20px;
+    padding-right: 200px;
+    margin-right: 10px;
+    padding-bottom: 4px;
+}
+
+div.spanish{
+    background-image:url("/project/assets/spanish.jpg");
+    background-repeat: no-repeat;
+    background-size:100%;
+    margin-top: 20px;
+    padding-right: 200px;
+    margin-right: 10px;
+    padding-bottom: 4px;
+}
+
+div.classic{
+    background-image:url("/project/assets/coffee_coldbrew.jpg");
+    background-repeat: no-repeat;
+    background-size:100%;
+    margin-top: 20px;
+    padding-right: 200px;
+    margin-right: 10px;
+    padding-bottom: 4px;
+}
+div.Okinawa{
+    background-image:url("/project/assets/okinawa.jpg");
+    background-repeat: no-repeat;
+    background-size:100%;
+    margin-top: 20px;
+    padding-right: 200px;
+    margin-right: 10px;
+    padding-bottom: 4px;
+}
+
+div.winter{
+    background-image:url("/project/assets/Wintermelon.jpg");
+    background-repeat: no-repeat;
+    background-size:100%;
+    margin-top: 20px;
+    padding-right: 200px;
+    margin-right: 10px;
+    padding-bottom: 4px;
+}
+div.choco{
+    background-image:url("/project/assets/choco.jpg");
+    background-repeat: no-repeat;
+    background-size:100%;
+    margin-top: 20px;
+    padding-right: 200px;
+    margin-right: 10px;
+    padding-bottom: 4px;
+    background-position: 02;
+}
+div.jasmine{
+    background-image:url("/project/assets/jasmine.jpg");
+    background-repeat: no-repeat;
+    background-size:100%;
+    margin-top: 20px;
+    padding-right: 200px;
+    margin-right: 10px;
+    padding-bottom: 4px;
+}
+
+h3{
+    color: white;
+}
+
+h4{
+    color: white;
+}
+
+h5{
+    margin-left: 20px;
+}
+
+h3.okinawa{
+    color: rgb(0, 0, 0);
+}
+
+h4.okinawa{
+    color: rgb(0, 0, 0);
+}
